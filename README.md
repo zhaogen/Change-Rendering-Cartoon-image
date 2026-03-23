@@ -24,8 +24,10 @@ cv2.bitwise_and 연산을 통해 1단계의 단순화된 색상 이미지 위에
 이 과정을 통해 선명한 테두리와 단순한 색감이 조화를 이루는 카툰 렌더링 결과물이 생성됩니다.
 
 성공 사례
-<img width="1426" height="746" alt="image" src="https://github.com/user-attachments/assets/0d720ed7-602c-4dcd-a152-aafadb6e707b" />
+<img width="802" height="632" alt="image" src="https://github.com/user-attachments/assets/ab31a491-7ee7-4b1b-96fa-232fa90cd4a4" />
+
 
 
 실패 사례
+
 <img width="802" height="632" alt="image" src="https://github.com/user-attachments/assets/7de5ea97-0392-449f-8970-f61e218f749c" />
