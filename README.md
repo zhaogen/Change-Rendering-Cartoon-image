@@ -24,6 +24,8 @@ cv2.bitwise_and 연산을 통해 1단계의 단순화된 색상 이미지 위에
 이 과정을 통해 선명한 테두리와 단순한 색감이 조화를 이루는 카툰 렌더링 결과물이 생성됩니다.
 
 성공 사례
+
+
 <img width="802" height="632" alt="image" src="https://github.com/user-attachments/assets/ab31a491-7ee7-4b1b-96fa-232fa90cd4a4" />
 
 
@@ -31,3 +33,6 @@ cv2.bitwise_and 연산을 통해 1단계의 단순화된 색상 이미지 위에
 실패 사례
 
 <img width="802" height="632" alt="image" src="https://github.com/user-attachments/assets/7de5ea97-0392-449f-8970-f61e218f749c" />
+
+알고리즘의 한계점 
+복잡한 배경 노이즈가 있는경우 나뭇잎이나 바닥의 세밀한 무늬가 많은 풍경 사진은 원치 않는 잔선들이 과도하게 추출되어 만화적인 깔끔함이 떨어지는 현상이 발생합니다.
