@@ -34,5 +34,6 @@ cv2.bitwise_and 연산을 통해 1단계의 단순화된 색상 이미지 위에
 
 <img width="802" height="632" alt="image" src="https://github.com/user-attachments/assets/7de5ea97-0392-449f-8970-f61e218f749c" />
 
-알고리즘의 한계점 
+알고리즘의 한계점 :
+
 복잡한 배경 노이즈가 있는경우 나뭇잎이나 바닥의 세밀한 무늬가 많은 풍경 사진은 원치 않는 잔선들이 과도하게 추출되어 만화적인 깔끔함이 떨어지는 현상이 발생합니다.
